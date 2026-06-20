@@ -63,3 +63,10 @@
 ---
 
 ## 📁 Project Structure
+fitness-wellness/
+
+  ├── index.html
+
+  ├── css/
+
+   └── style.css
